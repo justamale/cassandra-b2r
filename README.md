@@ -1,1 +1,1 @@
-# cassandra-b2r
+# cassandra-b2
